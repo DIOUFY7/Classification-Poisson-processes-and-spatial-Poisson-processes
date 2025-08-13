@@ -1,5 +1,7 @@
 #Mamadou DIOUF
+
 #Mathematics and Computer Science M2 Track
+#UPEC & UGE
 #INTERNSHIP AT LAMA UMR8050
 
 
